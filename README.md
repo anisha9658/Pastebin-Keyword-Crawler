@@ -1,4 +1,4 @@
-# Pastebin Keyword Crawler 🔍
+# Pastebin Keyword Crawler 
 
 ## Objective
 This tool crawls the latest Pastebin archive and extracts pastes containing keywords related to cryptocurrency or Telegram links.
